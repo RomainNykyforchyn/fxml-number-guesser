@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.ProgressBar?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane id="AnchorPane" prefHeight="237.0" prefWidth="405.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="ch.bbbaden.numberguesser.view.View">
+   <children>
+      <Button fx:id="guessBtn" layoutX="331.0" layoutY="53.0" mnemonicParsing="false" onAction="#guessAction" text="Guess" />
+      <TextField fx:id="guessTxt" layoutX="39.0" layoutY="53.0" prefHeight="31.0" prefWidth="274.0" />
+      <Label fx:id="answerLbl" layoutX="39.0" layoutY="98.0" prefHeight="21.0" prefWidth="347.0" text="Label" />
+      <ProgressBar fx:id="attemptPgr" layoutX="29.0" layoutY="140.0" prefHeight="23.0" prefWidth="347.0" progress="0.0" />
+      <Label layoutX="39.0" layoutY="14.0" text="Geben Sie eine Zahl zwischen 1 und 100 ein" />
+   </children>
+</AnchorPane>
