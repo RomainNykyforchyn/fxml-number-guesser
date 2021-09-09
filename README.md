@@ -1,4 +1,4 @@
-# FXML-Number Guesser
+# FXML-Number-Guesser
 
 ## Table of Contents
 
