@@ -20,5 +20,5 @@ This application is a simple number guesseing game. You can guess between the nu
 
 Romain Nykyforchyn - romainnyky@gmail.com
 
-https://github.com/RomainNykyforchyn/jsf-rgb-picker/
+https://github.com/RomainNykyforchyn/fxml-number-guesser/
 
