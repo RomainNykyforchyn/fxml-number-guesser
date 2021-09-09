@@ -14,7 +14,7 @@
 
 ## Usage <a name="usage"></a>
 
-This application is a simple number guesseing game. You can guess between the numbers 1 to 100, but you have a limited amount of entries. Depending on your guess, the game gives you advice, whether your guess is correct, too low or too high.
+This application is a simple number guessing game. You can guess between the numbers 1 to 100, but you have a limited amount of entries. Depending on your guess, the game gives you advice, whether your guess is correct, too low or too high.
 
 ## Contact <a name="contact"></a>
 
